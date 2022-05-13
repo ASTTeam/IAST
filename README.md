@@ -1,4 +1,7 @@
-# IAST
+# 《IAST交互式应用安全测试》
+
+DAST + SAST + ? = IAST
+
 interactive application security testing
 
 - https://github.com/HXSecurity/DongTai
